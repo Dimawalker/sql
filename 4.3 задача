@@ -1,0 +1,2 @@
+"employeeid","employeename","managerid","departmentname","rolename","projectnames","tasknames","totalsubordinates"
+4,"Алексей Алексеев",2,"Отдел продаж","Менеджер","Проект A","Задача 1: Подготовка отчета по продажам, Задача 14: Создание презентации для клиентов","4"
